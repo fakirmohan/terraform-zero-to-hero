@@ -1,3 +1,5 @@
+https://developer.hashicorp.com/vault/tutorials/getting-started/getting-started-install
+
 # Vault Integration
 
 Here are the detailed steps for each of these steps:
